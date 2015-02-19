@@ -1,1 +1,9 @@
 Copyright [2015] [Eric D Nolting]
+
+1. This license grants the end user permissions to use this program for private use only.
+No commercial use of any kind is allowd except for the following parties:
+-Saint Stephens Episcopal School
+
+2. The end user may not change, modify, or redistribute this code for any reason or in any way.
+
+3. All patent and commerical rights for this software product are held exclusivly by the author, Eric D. Nolting.
